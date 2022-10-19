@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Beautiful Bookmarks",
+  "version": "0.1",
+  "description": "Display and handle the Bookmarks in a better way.",
+  "homepage_url": "https://github.com/airvzxf/web-extension-beautiful-bookmarks",
+  "icons": {
+    "48": "icons/logo-48px.png",
+    "96": "icons/beautiful-bookmarks.svg"
+  },
+  "permissions": [
+    "bookmarks",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": "icons/logo-48px.png",
+    "default_title": "Beautiful Bookmarks",
+    "default_popup": "popup/scope.html"
+    //"default_popup": "popup/menu.html"
+  }
+}
