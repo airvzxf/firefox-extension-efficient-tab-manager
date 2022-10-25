@@ -106,6 +106,8 @@ Follow the official documentation for develop extension with Mozilla.
 1. Fork the project in your repositories.
     - Optional click on this link:
       [Fork this project](https://github.com/airvzxf/firefox-extension-efficient-tab-manager/fork).
+    - In the web browser click in the `Fork` button.
+    - ![image](https://user-images.githubusercontent.com/831380/197837331-8411403c-a253-42d3-b360-4ea7623dbf95.png)
 2. In your computer, clone your forked project.
     - `git clone https://github.com/MY_USER/firefox-extension-efficient-tab-manager.git`
     - Replace **MY_USER** with your GitHub user.
