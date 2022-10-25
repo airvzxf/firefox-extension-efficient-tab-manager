@@ -6,7 +6,7 @@
   "homepage_url": "https://github.com/airvzxf/web-extension-beautiful-bookmarks",
   "icons": {
     "48": "icons/logo-48px.png",
-    "96": "icons/beautiful-bookmarks.svg"
+    "96": "icons/logo-96px.png"
   },
   "permissions": [
     "bookmarks",
