@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Beautiful Bookmarks",
+  "name": "Efficient Tab Manager",
   "version": "0.1",
-  "description": "Display and handle the Bookmarks in a better way.",
-  "homepage_url": "https://github.com/airvzxf/web-extension-beautiful-bookmarks",
+  "description": "Start to manage your tabs efficiently and increase your productivity today!",
+  "homepage_url": "https://github.com/airvzxf/firefox-extension-efficient-tab-manager",
   "icons": {
     "48": "icons/logo-48px.png",
     "96": "icons/logo-96px.png"
@@ -14,8 +14,7 @@
   ],
   "browser_action": {
     "default_icon": "icons/logo-48px.png",
-    "default_title": "Beautiful Bookmarks",
+    "default_title": "Efficient Tab Manager",
     "default_popup": "popup/scope.html"
-    //"default_popup": "popup/menu.html"
   }
 }
