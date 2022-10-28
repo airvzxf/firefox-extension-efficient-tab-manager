@@ -4,12 +4,12 @@ on:
   push:
     branches: [ "main" ]
     paths:
-     - 'src'
+     - 'src/**'
   pull_request:
     # The branches below must be a subset of the branches above
     branches: [ "main" ]
     paths:
-     - 'src'
+     - 'src/**'
   schedule:
     - cron: '39 6 * * 0'
 
