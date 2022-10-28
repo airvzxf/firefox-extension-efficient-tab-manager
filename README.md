@@ -81,6 +81,11 @@ Follow the official documentation for develop extension with Mozilla.
 .
 ├── LICENSE
 ├── README.md
+├── .github ### Github workflow
+│   ├── codeql
+│   │   └── codeql-config.yml
+│   └── workflows
+│       └── codeql-analysis.yml
 └── src ### Source code of the project.
     ├── content_scripts ### Run particular context
     │   ├── bookmarks.js
